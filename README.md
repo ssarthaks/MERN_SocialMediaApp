@@ -9,4 +9,4 @@ Refer the below instruction to run this code.
 3. Run this command --> "npm i" or "npm install"
 4. Create a ".env" file in your root folder and add 4 variables i.e., PORT, MONGODB_URI, JWT_SECRET, JWT_EXPIRES_IN
 
-This should provide a clear and concise guide to getting the backend up and running. You can adjust the information as necessary based on your project.
+This should provide a clear and concise guide to getting the backend up and running. 
