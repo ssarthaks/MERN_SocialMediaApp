@@ -5,7 +5,7 @@
 2. CRUD Operations with User Profiles and Posts
 3. Seamless UI/UX
 
-##Branches
+## Branches
 1. backend
 2. frontend
 ### Later the production ready code will be published in the main branch.
