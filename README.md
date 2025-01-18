@@ -1,5 +1,6 @@
 # Frontend for this app
 This is the frontend for your project, built with React with Typescript and Tailwind CSS. It interacts with the backend API endpoints.
+
 Refer the below instruction to run this code.
 
 ## Installation Guide
