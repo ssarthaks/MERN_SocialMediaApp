@@ -1,5 +1,5 @@
 # Frontend for this app
-This is the frontend for your project, built with React with Typescript and Tailwind CSS. It interacts with the backend API endpoints.
+This is the frontend for your project, which will be futher built with React with Typescript and Tailwind CSS. It will interact with the backend API endpoints using Axios Library.
 
 Refer the below instruction to run this code.
 
